@@ -82,6 +82,7 @@ a {
 .hero-order-btn {
     font-family: inherit;
     color: #FFFFFF;
+    font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
@@ -160,7 +161,7 @@ a {
         text-align: center;
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
