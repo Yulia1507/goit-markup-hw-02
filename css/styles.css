@@ -159,29 +159,22 @@ a {
 
 
 /** ================ PORTFOLIO ============== */
-.portfolio {}
 
 .portfolio-title {
     color: #2E2F42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.2;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
-
-.portfolio-list {}
-
-.portfolio-item {}
-
-.portfolio-img {}
 
 .portfolio-subtitle {
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
 }
 
@@ -189,7 +182,7 @@ a {
     color:  #434455;
         font-size: 16px;
         font-weight: 400;
-        line-height: 1.5;
+        line-height: 1.2;
         letter-spacing: 0.02em;
 }
 /** ========================================= */
